@@ -1,0 +1,43 @@
+==================================================
+        AI PROCTORING SYSTEM REPORT
+==================================================
+
+[13-07-2026 18:40:51] User looked away
+[13-07-2026 18:41:46] No face detected
+[13-07-2026 18:42:03] No face detected
+[13-07-2026 18:42:05] Multiple faces detected
+[13-07-2026 18:42:08] User looked away
+[13-07-2026 18:42:19] Multiple faces detected
+[13-07-2026 18:42:21] Multiple faces detected
+[13-07-2026 18:42:21] Multiple faces detected
+[13-07-2026 18:42:26] Multiple faces detected
+[13-07-2026 18:42:26] Multiple faces detected
+[13-07-2026 18:42:27] Multiple faces detected
+[13-07-2026 18:42:32] Multiple faces detected
+[13-07-2026 18:42:35] User looked away
+[13-07-2026 18:42:36] Multiple faces detected
+[13-07-2026 18:42:39] Multiple faces detected
+[13-07-2026 18:42:39] Multiple faces detected
+[13-07-2026 18:42:40] Multiple faces detected
+[13-07-2026 18:42:41] Multiple faces detected
+[13-07-2026 18:42:41] Multiple faces detected
+[13-07-2026 18:42:42] Multiple faces detected
+[13-07-2026 18:42:45] User looked away
+[13-07-2026 18:42:46] Multiple faces detected
+[13-07-2026 18:42:47] Multiple faces detected
+[13-07-2026 18:42:47] Multiple faces detected
+[13-07-2026 18:42:49] Multiple faces detected
+[13-07-2026 18:42:51] Multiple faces detected
+[13-07-2026 18:42:52] Multiple faces detected
+[13-07-2026 18:42:53] Multiple faces detected
+[13-07-2026 18:42:55] Multiple faces detected
+[13-07-2026 18:43:00] Multiple faces detected
+[13-07-2026 18:43:02] Multiple faces detected
+[13-07-2026 18:43:09] User looked away
+
+==================================================
+SUMMARY
+==================================================
+Total No Face Violations      : 2
+Total Looking Away Violations : 5
+Total Multiple Face Events    : 25
